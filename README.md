@@ -12,6 +12,7 @@ A self learner software developer having curiosity about the technology.
 <a href="https://www.linkedin.com/in/paribartankalathoki" target="_blank">
   <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="40px"  src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/linkedin.jpg" />
 </a>
+
 <a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
   <img align="left" alt="Paribartan Kalathoki | Facebook" width="40px" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/facebook.png" />
 </a>
