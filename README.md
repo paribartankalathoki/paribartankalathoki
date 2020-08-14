@@ -4,16 +4,16 @@ A self learner software developer having curiosity about the technology.
 
 - 🔭 I’m currently working as an Junior Software Developer.
 - 🌱 I’m currently learning Angular, Typescripts, JavaScripts, Spring Boot, Data Structue & Algorithm.
-- 💬 Ask me about anything from [Here !](https://github.com/paribartankalathoki/parikalathoki.github.io/issues)
+- 💬 Ask me about anything from [Here !](https://github.com/paribartankalathoki/paribartankalathoki/issues)
 - 📫 How to reach me: paribartankalathoki@gmail.com
 
 **Connect with me:**
 
 <a href="https://www.linkedin.com/in/paribartankalathoki" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/linkedin.jpg" />
+  <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="40px"  src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/linkedin.jpg" />
 </a>
 <a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/facebook.png" />
+  <img align="left" alt="Paribartan Kalathoki | Facebook" width="40px" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/facebook.png" />
 </a>
 
 <br />
@@ -23,17 +23,17 @@ A self learner software developer having curiosity about the technology.
 **Languages and Tools:**  
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/webstrom.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/rest.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/spring.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/js.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/intellij.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/postman.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/git.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/mysql.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/java.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/webstrom.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/rest.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/js.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/intellij.jpeg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/postman.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/git.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/mysql.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/java.jpg"></code>
 
 <br />
 <br />
