@@ -49,5 +49,5 @@ A self learner software developer having curiosity about the technology.
 
 <a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paribartankalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=radical" alt="Paribartan's Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, shell&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, css, shell&theme=radical" alt="Top Languages" />
 </a>
