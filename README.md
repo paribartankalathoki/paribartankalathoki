@@ -1,6 +1,6 @@
 ### Hi there , I'm [Paribartan Kalathoki !](https://paribartankalathoki.com.np/) 👋
 
-A self learner software developer having curiosity about the technology.
+A software developer having curiosity about the technology.
 
 - 🔭 I’m currently working as an Junior Software Developer.
 - 🌱 I’m currently learning Angular, Typescripts, JavaScripts, Spring Boot, Data Structue & Algorithm.
