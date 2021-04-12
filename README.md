@@ -1,6 +1,6 @@
 ### Hi there , I'm [Paribartan Kalathoki !](https://paribartankalathoki.com.np/) 👋
 
-A Software Developer from Nepal - (Self Learner).
+A Self Taught Software Developer from Nepal.
 
 - 🔭 I’m currently working as an Junior Software Developer.
 - 🌱 I’m currently learning Angular, Typescript, JavaScripts, Spring Boot, Data Structue & Algorithm.
