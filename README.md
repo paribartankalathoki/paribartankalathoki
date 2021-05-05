@@ -48,6 +48,7 @@ A Self Taught Software Developer from Nepal.
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paribartankalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=radical" alt="Paribartan's Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, css, shell&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paribartankalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=algolia" alt="Paribartan's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, css, c, batchfile, shell&theme=algolia" alt="Top Languages" />
 </a>
+<a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
