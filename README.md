@@ -2,7 +2,7 @@
 
 A Self Taught Software Developer from Nepal.
 
-- 🔭 I’m currently working as an Junior Software Developer.
+- 🔭 I’m currently working as an Software Developer.
 - 🌱 I’m currently learning Angular, Typescript, JavaScripts, Spring Boot, Data Structue & Algorithm.
 - 💬 Ask me about anything from [Here !](https://github.com/paribartankalathoki/paribartankalathoki/issues)
 - 📫 How to reach me: paribartankalathoki@gmail.com
