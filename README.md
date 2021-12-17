@@ -1,27 +1,21 @@
-### Hi there , I'm [Paribartan Kalathoki !](https://paribartankalathoki.com.np/) 👋
+## Hi there, I'm [Paribartan Kalathoki !](https://paribartankalathoki.com.np/) 👋
 
 A Self Taught Software Developer from Nepal.
 
-- 🔭 I’m currently working as an Software Developer.
-- 🌱 I’m currently learning Angular, Typescript, JavaScripts, Spring Boot, Data Structue & Algorithm.
+ <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400">
+
+- 🔭 Currently working as an Software Developer.
+- 🌱 Currently learning Data Structue & Algorithm, Typescript, JavaScripts, Spring Boot.
 - 💬 Ask me about anything from [Here !](https://github.com/paribartankalathoki/paribartankalathoki/issues)
 - 📫 How to reach me: paribartankalathoki@gmail.com
 
-**Connect with me:**
+<h2> You can find me on: </h2>
 
-<a href="https://www.linkedin.com/in/paribartankalathoki" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/linkedin.jpg" />
-</a>
-<a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/facebook.png" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/paribartankalathoki/))](https://www.linkedin.com/in/paribartankalathoki/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-222222?logo=LeetCode&link=(https://leetcode.com/paribartan/))](https://leetcode.com/paribartan/)
+[![Facebook](https://img.shields.io/badge/-Facebook-222222?logo=Facebook&link=(https://www.facebook.com/paribartan.kalathoki.75/))](https://www.facebook.com/paribartan.kalathoki.75/)
 
-<br />
-<br />
-
-
-**Languages and Tools:**  
-
+<h2> Languages and Tools: </h2>  
 
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/typescript.png"></code>
@@ -35,13 +29,8 @@ A Self Taught Software Developer from Nepal.
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/mysql.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/java.jpg"></code>
 
-<br />
-<br />
+<h2> 📕 Latest Projects: </h2>
 
----
-
-
-**📕 Latest Projects:**
 - [Smart Banking & Customer Vigilance](https://bit.ly/31PWVZb) ,
 - [COVID-19 Status](https://bit.ly/2yiOhHR) ,
 - [Recipe Booking](https://recipe-book-5a0c1.firebaseapp.com/auth)
