@@ -12,6 +12,7 @@ A Self Taught Software Developer from Nepal.
 <h2> You can find me on: </h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/paribartankalathoki/))](https://www.linkedin.com/in/paribartankalathoki/)
+[![Medium](https://img.shields.io/badge/-Medium-222222?logo=Medium&link=(https://paribartankalathoki.medium.com/))](https://paribartankalathoki.medium.com/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-222222?logo=LeetCode&link=(https://leetcode.com/paribartan/))](https://leetcode.com/paribartan/)
 [![Facebook](https://img.shields.io/badge/-Facebook-222222?logo=Facebook&link=(https://www.facebook.com/paribartan.kalathoki.75/))](https://www.facebook.com/paribartan.kalathoki.75/)
 
