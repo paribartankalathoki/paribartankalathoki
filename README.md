@@ -29,16 +29,3 @@ A Self Taught Software Developer from Nepal.
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/git.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/mysql.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/paribartankalathoki/master/assets/java.jpg"></code>
-
-<h2> 📕 Latest Projects: </h2>
-
-- [Smart Banking & Customer Vigilance](https://bit.ly/31PWVZb) ,
-- [COVID-19 Status](https://bit.ly/2yiOhHR) ,
-- [Recipe Booking](https://recipe-book-5a0c1.firebaseapp.com/auth)
-
-
-<a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paribartankalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=algolia" alt="Paribartan's Github Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, css, c, batchfile, shell&theme=algolia" alt="Top Languages" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
